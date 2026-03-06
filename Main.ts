@@ -10,6 +10,6 @@ let funcionario = new Funcionario("Tony Sterco", "123456789", "999.999.999-99", 
 let funcionarios = [funcionario];
 
 let empresa = new Empresa(funcionarios, endereco, "ABC LTDA", "Mercado Livre", "99.999.999/0001-99");
-
+//xsqdl
 let descriptor = new Descriptor();
 descriptor.descrever(empresa);
